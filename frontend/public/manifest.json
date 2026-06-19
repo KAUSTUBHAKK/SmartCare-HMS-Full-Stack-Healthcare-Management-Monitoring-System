@@ -1,0 +1,18 @@
+{
+  "short_name": "Medicare.AI",
+  "name": "Medicare.AI Healthcare Platform",
+  "description": "Patient care, appointments, records, medicine support, and clinician workflows.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05080f",
+  "theme_color": "#087fa3",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/medicare-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
